@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Hellcat0007!
-- 👀 I’m interested in -> coding stuff
-- 🌱 I’m currently learning -> python 
+- 👋 Hi, I’m hellcat_xyz
+- 🌱 I’m a lazy dev in python 
 - 📫 How to reach me -> Discord: hellcat_xyz
 
 <!---
